@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeArtifactRepository version='1.0.0'?>
+<repository name='MyBatis Generator' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
+  <properties size='2'>
+    <property name='p2.timestamp' value='1676854301660'/>
+    <property name='p2.atomic.composite.loading' value='true'/>
+  </properties>
+  <children size='8'>
+    <child location='drops/1.3.3.201606241937'/>
+    <child location='drops/1.3.4.201608190045'/>
+    <child location='drops/1.3.5.201609070108'/>
+    <child location='drops/1.3.6.201712211716'/>
+    <child location='drops/1.3.7.201807042148'/>
+    <child location='drops/1.4.0.201911242214'/>
+    <child location='drops/1.4.1.202203082207'/>
+    <child location='drops/1.4.2.202302200051'/>
+  </children>
+</repository>

@@ -1,0 +1,4 @@
+#Sun Nov 24 17:14:34 EST 2019
+version=1
+metadata.repository.factory.order=content.xml.xz,content.xml,\!
+artifact.repository.factory.order=artifacts.xml.xz,artifacts.xml,\!
