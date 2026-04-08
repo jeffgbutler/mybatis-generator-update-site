@@ -1,0 +1,4 @@
+#Wed Apr 08 13:22:46 EDT 2026
+artifact.repository.factory.order=compositeArtifacts.xml,\!
+metadata.repository.factory.order=compositeContent.xml,\!
+version=1
